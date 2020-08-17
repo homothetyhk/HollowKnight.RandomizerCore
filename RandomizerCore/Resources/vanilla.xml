@@ -1,0 +1,788 @@
+<randomizer>
+  <item name="Start">
+    <items>Focus</items>
+  </item>
+  <item name="Sly">
+    <items>Mask_Shard,Mask_Shard,Vessel_Fragment,Gathering_Swarm,Stalwart_Shell,Lumafly_Lantern,Rancid_Egg,Simple_Key</items>
+  </item>
+  <item name="Sly_(Key)">
+    <items>Mask_Shard,Mask_Shard,Vessel_Fragment,Heavy_Blow,Elegant_Key,Sprintmaster</items>
+  </item>
+  <item name="Iselda">
+    <items>Wayward_Compass</items>
+  </item>
+  <item name="Salubra">
+    <items>Lifeblood_Heart,Longnail,Steady_Body,Shaman_Stone,Quick_Focus,Charm_Notch,Charm_Notch,Charm_Notch,Charm_Notch</items>
+  </item>
+  <item name="Leg_Eater">
+    <items>Fragile_Heart,Fragile_Greed,Fragile_Strength</items>
+  </item>
+  <item name="Lurien">
+    <items>Lurien</items>
+  </item>
+  <item name="Monomon">
+    <items>Monomon</items>
+  </item>
+  <item name="Herrah">
+    <items>Herrah</items>
+  </item>
+  <item name="World_Sense">
+    <items>World_Sense</items>
+  </item>
+  <item name="Mothwing_Cloak">
+    <items>Mothwing_Cloak</items>
+  </item>
+  <item name="Mantis_Claw">
+    <items>Mantis_Claw</items>
+  </item>
+  <item name="Crystal_Heart">
+    <items>Crystal_Heart</items>
+  </item>
+  <item name="Monarch_Wings">
+    <items>Monarch_Wings</items>
+  </item>
+  <item name="Shade_Cloak">
+    <items>Shade_Cloak</items>
+  </item>
+  <item name="Isma's_Tear">
+    <items>Isma's_Tear</items>
+  </item>
+  <item name="Dream_Nail">
+    <items>Dream_Nail</items>
+  </item>
+  <item name="Dream_Gate">
+    <items>Dream_Gate</items>
+  </item>
+  <item name="Awoken_Dream_Nail">
+    <items>Awoken_Dream_Nail</items>
+  </item>
+  <item name="Vengeful_Spirit">
+    <items>Vengeful_Spirit</items>
+  </item>
+  <item name="Shade_Soul">
+    <items>Shade_Soul</items>
+  </item>
+  <item name="Desolate_Dive">
+    <items>Desolate_Dive</items>
+  </item>
+  <item name="Descending_Dark">
+    <items>Descending_Dark</items>
+  </item>
+  <item name="Howling_Wraiths">
+    <items>Howling_Wraiths</items>
+  </item>
+  <item name="Abyss_Shriek">
+    <items>Abyss_Shriek</items>
+  </item>
+  <item name="Cyclone_Slash">
+    <items>Cyclone_Slash</items>
+  </item>
+  <item name="Dash_Slash">
+    <items>Dash_Slash</items>
+  </item>
+  <item name="Great_Slash">
+    <items>Great_Slash</items>
+  </item>
+  <item name="Grubsong">
+    <items>Grubsong</items>
+  </item>
+  <item name="Baldur_Shell">
+    <items>Baldur_Shell</items>
+  </item>
+  <item name="Fury_of_the_Fallen">
+    <items>Fury_of_the_Fallen</items>
+  </item>
+  <item name="Lifeblood_Core">
+    <items>Lifeblood_Core</items>
+  </item>
+  <item name="Defender's_Crest">
+    <items>Defender's_Crest</items>
+  </item>
+  <item name="Flukenest">
+    <items>Flukenest</items>
+  </item>
+  <item name="Thorns_of_Agony">
+    <items>Thorns_of_Agony</items>
+  </item>
+  <item name="Mark_of_Pride">
+    <items>Mark_of_Pride</items>
+  </item>
+  <item name="Sharp_Shadow">
+    <items>Sharp_Shadow</items>
+  </item>
+  <item name="Spore_Shroom">
+    <items>Spore_Shroom</items>
+  </item>
+  <item name="Soul_Catcher">
+    <items>Soul_Catcher</items>
+  </item>
+  <item name="Soul_Eater">
+    <items>Soul_Eater</items>
+  </item>
+  <item name="Glowing_Womb">
+    <items>Glowing_Womb</items>
+  </item>
+  <item name="Nailmaster's_Glory">
+    <items>Nailmaster's_Glory</items>
+  </item>
+  <item name="Joni's_Blessing">
+    <items>Joni's_Blessing</items>
+  </item>
+  <item name="Shape_of_Unn">
+    <items>Shape_of_Unn</items>
+  </item>
+  <item name="Hiveblood">
+    <items>Hiveblood</items>
+  </item>
+  <item name="Dream_Wielder">
+    <items>Dream_Wielder</items>
+  </item>
+  <item name="Dashmaster">
+    <items>Dashmaster</items>
+  </item>
+  <item name="Quick_Slash">
+    <items>Quick_Slash</items>
+  </item>
+  <item name="Spell_Twister">
+    <items>Spell_Twister</items>
+  </item>
+  <item name="Deep_Focus">
+    <items>Deep_Focus</items>
+  </item>
+  <item name="Grubberfly's_Elegy">
+    <items>Grubberfly's_Elegy</items>
+  </item>
+  <item name="Queen_Fragment">
+    <items>Queen_Fragment</items>
+  </item>
+  <item name="King_Fragment">
+    <items>King_Fragment</items>
+  </item>
+  <item name="Void_Heart">
+    <items>Void_Heart</items>
+  </item>
+  <item name="Dreamshield">
+    <items>Dreamshield</items>
+  </item>
+  <item name="Weaversong">
+    <items>Weaversong</items>
+  </item>
+  <item name="Grimmchild">
+    <items>Grimmchild</items>
+  </item>
+  <item name="City_Crest">
+    <items>City_Crest</items>
+  </item>
+  <item name="Tram_Pass">
+    <items>Tram_Pass</items>
+  </item>
+  <item name="Simple_Key-Basin">
+    <items>Simple_Key</items>
+  </item>
+  <item name="Simple_Key-City">
+    <items>Simple_Key</items>
+  </item>
+  <item name="Simple_Key-Lurker">
+    <items>Simple_Key</items>
+  </item>
+  <item name="Shopkeeper's_Key">
+    <items>Shopkeeper's_Key</items>
+  </item>
+  <item name="Love_Key">
+    <items>Love_Key</items>
+  </item>
+  <item name="King's_Brand">
+    <items>King's_Brand</items>
+  </item>
+  <item name="Godtuner">
+    <items>Godtuner</items>
+  </item>
+  <item name="Collector's_Map">
+    <items>Collector's_Map</items>
+  </item>
+  <item name="Mask_Shard-Seer">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Mask_Shard-5_Grubs">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Mask_Shard-Brooding_Mawlek">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Mask_Shard-Crossroads_Goam">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Mask_Shard-Stone_Sanctuary">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Mask_Shard-Queen's_Station">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Mask_Shard-Deepnest">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Mask_Shard-Waterways">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Mask_Shard-Enraged_Guardian">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Mask_Shard-Hive">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Mask_Shard-Grey_Mourner">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Mask_Shard-Bretta">
+    <items>Mask_Shard</items>
+  </item>
+  <item name="Vessel_Fragment-Seer">
+    <items>Vessel_Fragment</items>
+  </item>
+  <item name="Vessel_Fragment-Greenpath">
+    <items>Vessel_Fragment</items>
+  </item>
+  <item name="Vessel_Fragment-City">
+    <items>Vessel_Fragment</items>
+  </item>
+  <item name="Vessel_Fragment-Crossroads">
+    <items>Vessel_Fragment</items>
+  </item>
+  <item name="Vessel_Fragment-Basin">
+    <items>Vessel_Fragment</items>
+  </item>
+  <item name="Vessel_Fragment-Deepnest">
+    <items>Vessel_Fragment</items>
+  </item>
+  <item name="Vessel_Fragment-Stag_Nest">
+    <items>Vessel_Fragment</items>
+  </item>
+  <item name="Charm_Notch-Shrumal_Ogres">
+    <items>Charm_Notch</items>
+  </item>
+  <item name="Charm_Notch-Fog_Canyon">
+    <items>Charm_Notch</items>
+  </item>
+  <item name="Charm_Notch-Colosseum">
+    <items>Charm_Notch</items>
+  </item>
+  <item name="Charm_Notch-Grimm">
+    <items>Charm_Notch</items>
+  </item>
+  <item name="Pale_Ore-Basin">
+    <items>Pale_Ore</items>
+  </item>
+  <item name="Pale_Ore-Crystal_Peak">
+    <items>Pale_Ore</items>
+  </item>
+  <item name="Pale_Ore-Nosk">
+    <items>Pale_Ore</items>
+  </item>
+  <item name="Pale_Ore-Seer">
+    <items>Pale_Ore</items>
+  </item>
+  <item name="Pale_Ore-Grubs">
+    <items>Pale_Ore</items>
+  </item>
+  <item name="Pale_Ore-Colosseum">
+    <items>Pale_Ore</items>
+  </item>
+  <item name="False_Knight_Chest">
+    <items>False_Knight_Chest</items>
+  </item>
+  <item name="Soul_Master_Chest">
+    <items>Soul_Master_Chest</items>
+  </item>
+  <item name="Watcher_Knights_Chest">
+    <items>Watcher_Knights_Chest</items>
+  </item>
+  <item name="Greenpath_Chest">
+    <items>Greenpath_Chest</items>
+  </item>
+  <item name="Mantis_Lords_Chest">
+    <items>Mantis_Lords_Chest</items>
+  </item>
+  <item name="Resting_Grounds_Chest">
+    <items>Resting_Grounds_Chest</items>
+  </item>
+  <item name="Crystal_Peak_Chest">
+    <items>Crystal_Peak_Chest</items>
+  </item>
+  <item name="Weavers_Den_Chest">
+    <items>Weavers_Den_Chest</items>
+  </item>
+  <item name="Rancid_Egg-Grubs">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Sheo">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Fungal_Core">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Queen's_Gardens">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Blue_Lake">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Crystal_Peak_Dive_Entrance">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Crystal_Peak_Dark_Room">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Crystal_Peak_Tall_Room">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-City_of_Tears_Left">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-City_of_Tears_Pleasure_House">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Beast's_Den">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Dark_Deepnest">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Weaver's_Den">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Near_Quick_Slash">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Upper_Kingdom's_Edge">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Waterways_East">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Waterways_Main">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Waterways_West_Bluggsac">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Rancid_Egg-Waterways_West_Pickup">
+    <items>Rancid_Egg</items>
+  </item>
+  <item name="Wanderer's_Journal-Cliffs">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-Greenpath_Stag">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-Greenpath_Lower">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-Fungal_Wastes_Thorns_Gauntlet">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-Above_Mantis_Village">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-Crystal_Peak_Crawlers">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-Resting_Grounds_Catacombs">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-King's_Station">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-Pleasure_House">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-City_Storerooms">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-Ancient_Basin">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-Kingdom's_Edge_Entrance">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-Kingdom's_Edge_Camp">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Wanderer's_Journal-Kingdom's_Edge_Requires_Dive">
+    <items>Wanderer's_Journal</items>
+  </item>
+  <item name="Hallownest_Seal-Crossroads_Well">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Grubs">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Greenpath">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Fog_Canyon_West">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Fog_Canyon_East">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Queen's_Station">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Fungal_Wastes_Sporgs">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Mantis_Lords">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Seer">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Resting_Grounds_Catacombs">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-King's_Station">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-City_Rafters">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Soul_Sanctum">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Watcher_Knight">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Deepnest_By_Mantis_Lords">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Beast's_Den">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="Hallownest_Seal-Queen's_Gardens">
+    <items>Hallownest_Seal</items>
+  </item>
+  <item name="King's_Idol-Grubs">
+    <items>King's_Idol</items>
+  </item>
+  <item name="King's_Idol-Cliffs">
+    <items>King's_Idol</items>
+  </item>
+  <item name="King's_Idol-Crystal_Peak">
+    <items>King's_Idol</items>
+  </item>
+  <item name="King's_Idol-Glade_of_Hope">
+    <items>King's_Idol</items>
+  </item>
+  <item name="King's_Idol-Dung_Defender">
+    <items>King's_Idol</items>
+  </item>
+  <item name="King's_Idol-Great_Hopper">
+    <items>King's_Idol</items>
+  </item>
+  <item name="King's_Idol-Pale_Lurker">
+    <items>King's_Idol</items>
+  </item>
+  <item name="King's_Idol-Deepnest">
+    <items>King's_Idol</items>
+  </item>
+  <item name="Arcane_Egg-Seer">
+    <items>Arcane_Egg</items>
+  </item>
+  <item name="Arcane_Egg-Lifeblood_Core">
+    <items>Arcane_Egg</items>
+  </item>
+  <item name="Arcane_Egg-Shade_Cloak">
+    <items>Arcane_Egg</items>
+  </item>
+  <item name="Arcane_Egg-Birthplace">
+    <items>Arcane_Egg</items>
+  </item>
+  <item name="Whispering_Root-Crossroads">
+    <items>Whispering_Root-Crossroads</items>
+  </item>
+  <item name="Whispering_Root-Greenpath">
+    <items>Whispering_Root-Greenpath</items>
+  </item>
+  <item name="Whispering_Root-Leg_Eater">
+    <items>Whispering_Root-Leg_Eater</items>
+  </item>
+  <item name="Whispering_Root-Mantis_Village">
+    <items>Whispering_Root-Mantis_Village</items>
+  </item>
+  <item name="Whispering_Root-Deepnest">
+    <items>Whispering_Root-Deepnest</items>
+  </item>
+  <item name="Whispering_Root-Queens_Gardens">
+    <items>Whispering_Root-Queens_Gardens</items>
+  </item>
+  <item name="Whispering_Root-Kingdoms_Edge">
+    <items>Whispering_Root-Kingdoms_Edge</items>
+  </item>
+  <item name="Whispering_Root-Waterways">
+    <items>Whispering_Root-Waterways</items>
+  </item>
+  <item name="Whispering_Root-City">
+    <items>Whispering_Root-City</items>
+  </item>
+  <item name="Whispering_Root-Resting_Grounds">
+    <items>Whispering_Root-Resting_Grounds</items>
+  </item>
+  <item name="Whispering_Root-Spirits_Glade">
+    <items>Whispering_Root-Spirits_Glade</items>
+  </item>
+  <item name="Whispering_Root-Crystal_Peak">
+    <items>Whispering_Root-Crystal_Peak</items>
+  </item>
+  <item name="Whispering_Root-Howling_Cliffs">
+    <items>Whispering_Root-Howling_Cliffs</items>
+  </item>
+  <item name="Whispering_Root-Ancestral_Mound">
+    <items>Whispering_Root-Ancestral_Mound</items>
+  </item>
+  <item name="Whispering_Root-Hive">
+    <items>Whispering_Root-Hive</items>
+  </item>
+  <item name="Elder_Hu">
+    <items>Elder_Hu</items>
+  </item>
+  <item name="Xero">
+    <items>Xero</items>
+  </item>
+  <item name="Gorb">
+    <items>Gorb</items>
+  </item>
+  <item name="Marmu">
+    <items>Marmu</items>
+  </item>
+  <item name="No_Eyes">
+    <items>No_Eyes</items>
+  </item>
+  <item name="Galien">
+    <items>Galien</items>
+  </item>
+  <item name="Markoth">
+    <items>Markoth</items>
+  </item>
+  <item name="Failed_Champion">
+    <items>Failed_Champion</items>
+  </item>
+  <item name="Soul_Tyrant">
+    <items>Soul_Tyrant</items>
+  </item>
+  <item name="Lost_Kin">
+    <items>Lost_Kin</items>
+  </item>
+  <item name="Grub-Crossroads_35">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Crossroads_05">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Crossroads_03">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Crossroads_31">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Crossroads_48">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Fungus1_06">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Fungus1_07">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Fungus1_13">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Fungus1_21">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Fungus3_47">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Fungus2_18">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Fungus2_20">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Deepnest_36">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Deepnest_31">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Deepnest_03">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Deepnest_39">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Deepnest_Spider_Town">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Deepnest_East_14">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Deepnest_East_11">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Hive_03">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Hive_04">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Abyss_19">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Abyss_17">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Waterways_04">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Waterways_13">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Waterways_14">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Ruins1_05">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Ruins1_32">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Ruins2_03">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Ruins_House_01">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Ruins2_07">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-RestingGrounds_10">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Mines_04">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Mines_35">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Mines_03">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Mines_16">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Mines_19">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Mines_31">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Mines_24">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Fungus1_28">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Fungus3_10">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Fungus3_48">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Fungus3_22">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Ruins2_11">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Ruins2_11(1)">
+    <items>Grub</items>
+  </item>
+  <item name="Grub-Ruins2_11(2)">
+    <items>Grub</items>
+  </item>
+  <item name="Crossroads_Map">
+    <items>Crossroads_Map</items>
+  </item>
+  <item name="Greenpath_Map">
+    <items>Greenpath_Map</items>
+  </item>
+  <item name="Fog_Canyon_Map">
+    <items>Fog_Canyon_Map</items>
+  </item>
+  <item name="Fungal_Wastes_Map">
+    <items>Fungal_Wastes_Map</items>
+  </item>
+  <item name="Deepnest_Map-Upper">
+    <items>Deepnest_Map</items>
+  </item>
+  <item name="Deepnest_Map-Right">
+    <items>Quill</items>
+  </item>
+  <item name="Ancient_Basin_Map">
+    <items>Ancient_Basin_Map</items>
+  </item>
+  <item name="Kingdom's_Edge_Map">
+    <items>Kingdom's_Edge_Map</items>
+  </item>
+  <item name="City_of_Tears_Map">
+    <items>City_of_Tears_Map</items>
+  </item>
+  <item name="Royal_Waterways_Map">
+    <items>Royal_Waterways_Map</items>
+  </item>
+  <item name="Howling_Cliffs_Map">
+    <items>Howling_Cliffs_Map</items>
+  </item>
+  <item name="Crystal_Peak_Map">
+    <items>Crystal_Peak_Map</items>
+  </item>
+  <item name="Queen's_Gardens_Map">
+    <items>Queen's_Gardens_Map</items>
+  </item>
+  <item name="Resting_Grounds_Map">
+    <items>Resting_Grounds_Map</items>
+  </item>
+  <item name="Dirtmouth_Stag">
+    <items>Dirtmouth_Stag</items>
+  </item>
+  <item name="Crossroads_Stag">
+    <items>Crossroads_Stag</items>
+  </item>
+  <item name="Greenpath_Stag">
+    <items>Greenpath_Stag</items>
+  </item>
+  <item name="Queen's_Station_Stag">
+    <items>Queen's_Station_Stag</items>
+  </item>
+  <item name="Queen's_Gardens_Stag">
+    <items>Queen's_Gardens_Stag</items>
+  </item>
+  <item name="City_Storerooms_Stag">
+    <items>City_Storerooms_Stag</items>
+  </item>
+  <item name="King's_Station_Stag">
+    <items>King's_Station_Stag</items>
+  </item>
+  <item name="Resting_Grounds_Stag">
+    <items>Resting_Grounds_Stag</items>
+  </item>
+  <item name="Distant_Village_Stag">
+    <items>Distant_Village_Stag</items>
+  </item>
+  <item name="Hidden_Station_Stag">
+    <items>Hidden_Station_Stag</items>
+  </item>
+  <item name="Stag_Nest_Stag">
+    <items>Stag_Nest_Stag</items>
+  </item>
+</randomizer>

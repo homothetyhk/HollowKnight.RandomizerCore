@@ -1,0 +1,683 @@
+<randomizer>
+  <item name="Lurien">
+    <pool>Dreamer</pool>
+    <costType>Dreamnail</costType>
+    <progression>true</progression>
+  </item>
+  <item name="Monomon">
+    <pool>Dreamer</pool>
+    <costType>Dreamnail</costType>
+    <progression>true</progression>
+  </item>
+  <item name="Herrah">
+    <pool>Dreamer</pool>
+    <costType>Dreamnail</costType>
+    <progression>true</progression>
+  </item>
+  <item name="World_Sense">
+    <pool>Dreamer</pool>
+  </item>
+  <item name="Mothwing_Cloak">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Mantis_Claw">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Crystal_Heart">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Monarch_Wings">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Shade_Cloak">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Isma's_Tear">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Dream_Nail">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Dream_Gate">
+    <pool>Skill</pool>
+    <progression>true</progression>
+    <cost>900</cost>
+    <costType>Essence</costType>
+  </item>
+  <item name="Awoken_Dream_Nail">
+    <pool>Skill</pool>
+    <progression>true</progression>
+    <cost>900</cost>
+    <costType>Essence</costType>
+  </item>
+  <item name="Vengeful_Spirit">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Shade_Soul">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Desolate_Dive">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Descending_Dark">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Howling_Wraiths">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Abyss_Shriek">
+    <pool>Skill</pool>
+    <cost>1</cost>
+    <costType>Wraiths</costType>
+    <progression>true</progression>
+  </item>
+  <item name="Cyclone_Slash">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Dash_Slash">
+    <pool>Skill</pool>
+    <progression>true</progression>
+    <cost>800</cost>
+  </item>
+  <item name="Great_Slash">
+    <pool>Skill</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Focus">
+    <pool>Cursed</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Dreamer">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Mothwing_Cloak_(1)">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Mantis_Claw_(1)">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Crystal_Heart_(1)">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Monarch_Wings_(1)">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Shade_Cloak_(1)">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Isma's_Tear_(1)">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Dream_Nail_(1)">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Vengeful_Spirit_(1)">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Desolate_Dive_(1)">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Howling_Wraiths_(1)">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Void_Heart_(1)">
+    <pool>Dupe</pool>
+  </item>
+  <item name="Gathering_Swarm">
+    <shopName>Sly</shopName>
+    <pool>Charm</pool>
+  </item>
+  <item name="Wayward_Compass">
+    <shopName>Iselda</shopName>
+    <pool>Charm</pool>
+  </item>
+  <item name="Grubsong">
+    <pool>Charm</pool>
+    <cost>10</cost>
+    <costType>Grub</costType>
+  </item>
+  <item name="Stalwart_Shell">
+    <shopName>Sly</shopName>
+    <pool>Charm</pool>
+  </item>
+  <item name="Baldur_Shell">
+    <pool>Charm</pool>
+  </item>
+  <item name="Fury_of_the_Fallen">
+    <pool>Charm</pool>
+  </item>
+  <item name="Quick_Focus">
+    <shopName>Salubra</shopName>
+    <pool>Charm</pool>
+  </item>
+  <item name="Lifeblood_Heart">
+    <shopName>Salubra</shopName>
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Lifeblood_Core">
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Defender's_Crest">
+    <pool>Charm</pool>
+  </item>
+  <item name="Flukenest">
+    <pool>Charm</pool>
+  </item>
+  <item name="Thorns_of_Agony">
+    <pool>Charm</pool>
+  </item>
+  <item name="Mark_of_Pride">
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Steady_Body">
+    <shopName>Salubra</shopName>
+    <pool>Charm</pool>
+  </item>
+  <item name="Heavy_Blow">
+    <shopName>Sly_(Key)</shopName>
+    <pool>Charm</pool>
+  </item>
+  <item name="Sharp_Shadow">
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Spore_Shroom">
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Longnail">
+    <shopName>Salubra</shopName>
+    <pool>Charm</pool>
+  </item>
+  <item name="Shaman_Stone">
+    <shopName>Salubra</shopName>
+    <pool>Charm</pool>
+  </item>
+  <item name="Soul_Catcher">
+    <pool>Charm</pool>
+  </item>
+  <item name="Soul_Eater">
+    <pool>Charm</pool>
+  </item>
+  <item name="Glowing_Womb">
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Fragile_Heart">
+    <shopName>Leg_Eater</shopName>
+    <pool>Charm</pool>
+  </item>
+  <item name="Fragile_Greed">
+    <shopName>Leg_Eater</shopName>
+    <pool>Charm</pool>
+  </item>
+  <item name="Fragile_Strength">
+    <shopName>Leg_Eater</shopName>
+    <pool>Charm</pool>
+  </item>
+  <item name="Nailmaster's_Glory">
+    <pool>Charm</pool>
+  </item>
+  <item name="Joni's_Blessing">
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Shape_of_Unn">
+    <pool>Charm</pool>
+  </item>
+  <item name="Hiveblood">
+    <pool>Charm</pool>
+  </item>
+  <item name="Dream_Wielder">
+    <pool>Charm</pool>
+    <cost>500</cost>
+    <costType>Essence</costType>
+  </item>
+  <item name="Dashmaster">
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Quick_Slash">
+    <pool>Charm</pool>
+  </item>
+  <item name="Spell_Twister">
+    <pool>Charm</pool>
+  </item>
+  <item name="Deep_Focus">
+    <pool>Charm</pool>
+  </item>
+  <item name="Grubberfly's_Elegy">
+    <pool>Charm</pool>
+    <progression>true</progression>
+    <cost>23</cost>
+    <costType>Grub</costType>
+  </item>
+  <item name="Queen_Fragment">
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="King_Fragment">
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Void_Heart">
+    <pool>Charm</pool>
+    <cost>1</cost>
+    <costType>Dreamnail</costType>
+    <progression>true</progression>
+  </item>
+  <item name="Sprintmaster">
+    <shopName>Sly_(Key)</shopName>
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Dreamshield">
+    <pool>Charm</pool>
+  </item>
+  <item name="Weaversong">
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Grimmchild">
+    <pool>Charm</pool>
+    <progression>true</progression>
+  </item>
+  <!--Keys-->
+  <item name="City_Crest">
+    <pool>Key</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Lumafly_Lantern">
+    <shopName>Sly</shopName>
+    <pool>Key</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Tram_Pass">
+    <pool>Key</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Simple_Key">
+    <pool>Key</pool>
+    <progression>true</progression>
+    <count>4</count>
+  </item>
+  <item name="Shopkeeper's_Key">
+    <pool>Key</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Elegant_Key">
+    <shopName>Sly_(Key)</shopName>
+    <pool>Key</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Love_Key">
+    <pool>Key</pool>
+    <progression>true</progression>
+  </item>
+  <item name="King's_Brand">
+    <pool>Key</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Godtuner">
+    <pool>Key</pool>
+    <cost>1</cost>
+    <costType>Simple</costType>
+  </item>
+  <item name="Collector's_Map">
+    <pool>Key</pool>
+  </item>
+  <!--Mask Shards-->
+  <item name="Mask_Shard">
+    <pool>Mask</pool>
+    <count>16</count>
+  </item>
+  <!--Vessel Fragments-->
+  <item name="Vessel_Fragment">
+    <pool>Vessel</pool>
+    <count>9</count>
+  </item>
+  <!--Charm Notches-->
+  <item name="Charm_Notch">
+    <pool>Notch</pool>
+    <count>8</count>
+  </item>
+  <!--Pale Ore-->
+  <item name="Pale_Ore">
+    <pool>Ore</pool>
+    <count>6</count>
+  </item>
+  <!--Geo Chests-->
+  <item name="False_Knight_Chest">
+    <pool>Geo</pool>
+    <geo>200</geo>
+  </item>
+  <item name="Soul_Master_Chest">
+    <pool>Geo</pool>
+    <geo>380</geo>
+  </item>
+  <item name="Watcher_Knights_Chest">
+    <pool>Geo</pool>
+    <geo>655</geo>
+  </item>
+  <item name="Greenpath_Chest">
+    <pool>Geo</pool>
+    <geo>85</geo>
+  </item>
+  <item name="Mantis_Lords_Chest">
+    <pool>Geo</pool>
+    <geo>620</geo>
+  </item>
+  <item name="Resting_Grounds_Chest">
+    <pool>Geo</pool>
+    <geo>150</geo>
+  </item>
+  <item name="Crystal_Peak_Chest">
+    <pool>Geo</pool>
+    <geo>80</geo>
+  </item>
+  <item name="Weavers_Den_Chest">
+    <pool>Geo</pool>
+    <geo>160</geo>
+  </item>
+  <item name="1_Geo">
+    <pool>Fake</pool>
+    <geo>1</geo>
+  </item>
+  <item name="Rancid_Egg">
+    <pool>Egg</pool>
+    <count>20</count>
+  </item>
+  <!--Wanderers Journals-->
+  <item name="Wanderer's_Journal">
+    <pool>Relic</pool>
+    <count>14</count>
+  </item>
+  <!--Hallownest Seals-->
+  <item name="Hallownest_Seal">
+    <pool>Relic</pool>
+    <count>17</count>
+  </item>
+  <!--Kings Idols-->
+  <item name="King's_Idol">
+    <pool>Relic</pool>
+    <count>8</count>
+  </item>
+  <item name="Arcane_Egg">
+    <pool>Relic</pool>
+    <count>4</count>
+  </item>
+  <!--Whispering Roots-->
+  <item name="Whispering_Root-Crossroads">
+    <pool>Root</pool>
+    <essence>29</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Greenpath">
+    <pool>Root</pool>
+    <essence>44</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Leg_Eater">
+    <pool>Root</pool>
+    <essence>20</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Mantis_Village">
+    <pool>Root</pool>
+    <essence>18</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Deepnest">
+    <pool>Root</pool>
+    <essence>45</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Queens_Gardens">
+    <pool>Root</pool>
+    <essence>29</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Kingdoms_Edge">
+    <pool>Root</pool>
+    <essence>51</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Waterways">
+    <pool>Root</pool>
+    <essence>35</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-City">
+    <pool>Root</pool>
+    <essence>28</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Resting_Grounds">
+    <pool>Root</pool>
+    <essence>20</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Spirits_Glade">
+    <pool>Root</pool>
+    <essence>34</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Crystal_Peak">
+    <pool>Root</pool>
+    <essence>21</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Howling_Cliffs">
+    <pool>Root</pool>
+    <essence>46</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Ancestral_Mound">
+    <pool>Root</pool>
+    <essence>42</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <item name="Whispering_Root-Hive">
+    <pool>Root</pool>
+    <essence>20</essence>
+    <progression>true</progression>
+    <costType>whisperingRoot</costType>
+  </item>
+  <!--Essence Bosses-->
+  <item name="Elder_Hu">
+    <pool>Essence_Boss</pool>
+    <essence>100</essence>
+    <progression>true</progression>
+  </item>
+  <item name="Xero">
+    <pool>Essence_Boss</pool>
+    <essence>100</essence>
+    <progression>true</progression>
+  </item>
+  <item name="Gorb">
+    <pool>Essence_Boss</pool>
+    <essence>100</essence>
+    <progression>true</progression>
+  </item>
+  <item name="Marmu">
+    <pool>Essence_Boss</pool>
+    <essence>150</essence>
+    <progression>true</progression>
+  </item>
+  <item name="No_Eyes">
+    <pool>Essence_Boss</pool>
+    <essence>200</essence>
+    <progression>true</progression>
+  </item>
+  <item name="Galien">
+    <pool>Essence_Boss</pool>
+    <essence>200</essence>
+    <progression>true</progression>
+  </item>
+  <item name="Markoth">
+    <pool>Essence_Boss</pool>
+    <essence>250</essence>
+    <progression>true</progression>
+  </item>
+  <item name="Failed_Champion">
+    <pool>Essence_Boss</pool>
+    <essence>300</essence>
+    <progression>true</progression>
+  </item>
+  <item name="Soul_Tyrant">
+    <pool>Essence_Boss</pool>
+    <essence>300</essence>
+    <progression>true</progression>
+  </item>
+  <item name="Lost_Kin">
+    <pool>Essence_Boss</pool>
+    <essence>400</essence>
+    <progression>true</progression>
+  </item>
+  <!--Grubs-->
+  <item name="Grub">
+    <pool>Grub</pool>
+    <progression>true</progression>
+  </item>
+  <!--MAPS-->
+  <item name="Crossroads_Map">
+    <pool>Map</pool>
+    <cost>30</cost>
+  </item>
+  <item name="Greenpath_Map">
+    <pool>Map</pool>
+    <cost>60</cost>
+  </item>
+  <item name="Fog_Canyon_Map">
+    <pool>Map</pool>
+    <cost>150</cost>
+  </item>
+  <item name="Fungal_Wastes_Map">
+    <pool>Map</pool>
+    <cost>75</cost>
+  </item>
+  <item name="Deepnest_Map">
+    <pool>Map</pool>
+    <cost>38</cost>
+  </item>
+  <item name="Quill">
+    <pool>Map</pool>
+    <cost>38</cost>
+  </item>
+  <item name="Ancient_Basin_Map">
+    <pool>Map</pool>
+    <cost>112</cost>
+  </item>
+  <item name="Kingdom's_Edge_Map">
+    <pool>Map</pool>
+    <cost>112</cost>
+  </item>
+  <item name="City_of_Tears_Map">
+    <pool>Map</pool>
+    <cost>90</cost>
+  </item>
+  <item name="Royal_Waterways_Map">
+    <pool>Map</pool>
+    <cost>75</cost>
+  </item>
+  <item name="Howling_Cliffs_Map">
+    <pool>Map</pool>
+    <cost>75</cost>
+  </item>
+  <item name="Crystal_Peak_Map">
+    <pool>Map</pool>
+    <cost>112</cost>
+  </item>
+  <item name="Queen's_Gardens_Map">
+    <pool>Map</pool>
+    <cost>150</cost>
+  </item>
+  <item name="Resting_Grounds_Map">
+    <pool>Map</pool>
+    <cost>56</cost>
+  </item>
+  <!--Stag Stations-->
+  <item name="Dirtmouth_Stag">
+    <pool>Stag</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Crossroads_Stag">
+    <pool>Stag</pool>
+    <progression>true</progression>
+    <cost>50</cost>
+  </item>
+  <item name="Greenpath_Stag">
+    <pool>Stag</pool>
+    <progression>true</progression>
+    <cost>140</cost>
+  </item>
+  <item name="Queen's_Station_Stag">
+    <pool>Stag</pool>
+    <progression>true</progression>
+    <cost>120</cost>
+  </item>
+  <item name="Queen's_Gardens_Stag">
+    <pool>Stag</pool>
+    <progression>true</progression>
+    <cost>200</cost>
+  </item>
+  <item name="City_Storerooms_Stag">
+    <pool>Stag</pool>
+    <progression>true</progression>
+    <cost>200</cost>
+  </item>
+  <item name="King's_Station_Stag">
+    <pool>Stag</pool>
+    <progression>true</progression>
+    <cost>300</cost>
+  </item>
+  <item name="Resting_Grounds_Stag">
+    <pool>Stag</pool>
+    <progression>true</progression>
+  </item>
+  <item name="Distant_Village_Stag">
+    <pool>Stag</pool>
+    <progression>true</progression>
+    <cost>250</cost>
+  </item>
+  <item name="Hidden_Station_Stag">
+    <pool>Stag</pool>
+    <progression>true</progression>
+    <cost>300</cost>
+  </item>
+  <item name="Stag_Nest_Stag">
+    <pool>Stag</pool>
+    <progression>true</progression>
+    <cost>300</cost>
+  </item>
+</randomizer>

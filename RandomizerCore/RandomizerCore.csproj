@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5B27D866-C96C-40CF-893E-877986C8EDF2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RandomizerCore</RootNamespace>
+    <AssemblyName>RandomizerCore</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Algorithms\Randomizer2.cs" />
+    <Compile Include="Data\VanillaData.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="Pair.cs" />
+    <Compile Include="RandomizationSettings.cs" />
+    <Compile Include="DifficultySettings.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Algorithms\ClawUniform.cs" />
+    <Compile Include="Algorithms\NaiveRandomizer.cs" />
+    <Compile Include="Algorithms\Randomizer3%28Transitions%29.cs" />
+    <Compile Include="Algorithms\Randomizer3.cs" />
+    <Compile Include="CostRandomizer.cs" />
+    <Compile Include="Data\ItemData.cs" />
+    <Compile Include="Data\LocationData.cs" />
+    <Compile Include="Data\LogicManager.cs" />
+    <Compile Include="Data\LogicProcessor.cs" />
+    <Compile Include="Data\MacroData.cs" />
+    <Compile Include="Data\StartData.cs" />
+    <Compile Include="Data\TransitionData.cs" />
+    <Compile Include="Data\WaypointData.cs" />
+    <Compile Include="Data\XmlUtil.cs" />
+    <Compile Include="Extensions\Extensions.cs" />
+    <Compile Include="Tools\FilledLocations.cs" />
+    <Compile Include="Tools\PlacedTransitions.cs" />
+    <Compile Include="Tools\PrePlacedManager.cs" />
+    <Compile Include="Tools\ProgressionManager.cs" />
+    <Compile Include="Randomizer.cs" />
+    <Compile Include="Tools\ReachableLocations.cs" />
+    <Compile Include="Tools\ReachableTransitions.cs" />
+    <Compile Include="StartRandomizer.cs" />
+    <Compile Include="Validator.cs" />
+    <Compile Include="Tools\VanillaManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\areas.xml" />
+    <EmbeddedResource Include="Resources\items.xml" />
+    <EmbeddedResource Include="Resources\locations.xml" />
+    <EmbeddedResource Include="Resources\macros.xml" />
+    <EmbeddedResource Include="Resources\rooms.xml" />
+    <EmbeddedResource Include="Resources\startlocations.xml" />
+    <EmbeddedResource Include="Resources\waypoints.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\vanilla.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
